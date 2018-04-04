@@ -1,0 +1,29 @@
+{
+  "name": "pomoc-caas",
+  "version": "0.1.0",
+  "description": "Single sign on service for Pomoc.",
+  "main": "",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.1.0",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pisay127/pomoc-caas.git"
+  },
+  "keywords": [
+    "cas",
+    "caas"
+  ],
+  "author": "Sean Francis N. Ballais",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Pisay127/pomoc-caas/issues"
+  },
+  "homepage": "https://github.com/Pisay127/pomoc-caas#readme"
+}
