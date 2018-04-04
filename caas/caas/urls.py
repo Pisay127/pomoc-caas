@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     # For the CAS itself
-    path('cas/', include('cas_server.urls', namespace=))
+    path('cas/', include('cas_server.urls', namespace='cas_server'))
 ]
